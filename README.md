@@ -1,4 +1,4 @@
-# PPAP
+# PPAP++
 It might **SLIGHTLY** be a reference to [this](https://www.youtube.com/watch?v=d9TpRfDdyU0). This "language" works exactly like Brainf*ck, just with another syntax:
 
 |Command in BF|Command in PPAP         |
@@ -8,7 +8,7 @@ It might **SLIGHTLY** be a reference to [this](https://www.youtube.com/watch?v=d
 |>            |APPLE-PEN,              |
 |<            |PINEAPPLE-PEN,          |
 |.            |I HAVE A PEN            |
-|,            |UH,       |
+|,            |UH,                     |
 |[            |PPAP,                    |
 |]            |PEN-PINEAPPLE-APPLE-PEN, |
 
@@ -73,3 +73,5 @@ I HAVE A PEN,
 UH,
 PEN-PINEAPPLE-APPLE-PEN,
 ```
+
+Now go ahead and have a PEN-PINEAPPLE-APPLE-PEN!
