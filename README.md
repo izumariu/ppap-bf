@@ -12,6 +12,14 @@ It might **SLIGHTLY** be a reference to [this](https://www.youtube.com/watch?v=d
 |[            |PPAP,                    |
 |]            |PEN-PINEAPPLE-APPLE-PEN, |
 
+"I HAVE n "+item+"S" may be used for shortening multiple following keywords that are equal.
+Example:
+
+```
+I HAVE 42 APPLES
+```
+(would be 42*"+")
+
 Every statement is terminated with a comma and a line feed.
 The last statement does not need comma+linefeed.
 
